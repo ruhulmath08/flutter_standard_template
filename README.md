@@ -11,13 +11,13 @@ The project follows a layered architecture, dividing the codebase into three mai
 
 ## Key Features
 
-- **Clean Architecture:** Ensures a clear separation of concerns, making the codebase more modular and maintainable.
-- **BLoC Pattern:** Provides a predictable and testable way to manage UI state and handle user interactions.
-- **Dependency Injection:** Utilizes a dependency injection framework (e.g., get_it) to manage dependencies and improve testability.
-- **API Integration:** Demonstrates how to interact with external APIs to fetch and manipulate data.
-- **Local Storage:** Shows how to persist data locally using a database or other storage mechanisms.
-- **Unit and Widget Testing:** Includes comprehensive tests to ensure the correctness of the application logic and UI components.
-- **Build Flavors:** Supports building different versions of the app (e.g., dev, staging, production) with distinct configurations.
+1. **Clean Architecture:** Ensures a clear separation of concerns, making the codebase more modular and maintainable.
+2. **BLoC Pattern:** Provides a predictable and testable way to manage UI state and handle user interactions.
+3. **Dependency Injection:** Utilizes a dependency injection framework (e.g., get_it) to manage dependencies and improve testability.
+4. **API Integration:** Demonstrates how to interact with external APIs to fetch and manipulate data.
+5. **Local Storage:** Shows how to persist data locally using a database or other storage mechanisms.
+6. **Unit and Widget Testing:** Includes comprehensive tests to ensure the correctness of the application logic and UI components.
+7. **Build Flavors:** Supports building different versions of the app (e.g., dev, staging, production) with distinct configurations.
 
 ## Getting Started
 
